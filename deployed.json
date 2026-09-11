@@ -1,0 +1,28 @@
+{
+  "network": "amoy",
+  "chainId": 80002,
+  "timestamp": "2026-09-10T13:13:00.000Z",
+  "deployer": "0x4D02C5143dCdB2cBBd61ec4955C116f83C7Eff26",
+  "contracts": {
+    "PanorToken": "0xD0aAe45DF910b363918b59A98110F630BB4a6296",
+    "ChainlinkMock": "0xC6De0BAA993000f0d462782546e011308D1973D3",
+    "Totum": "0x7d64B65267E51Cc34F5C562209562430AD1f5BC7"
+  },
+  "genesis": {
+    "identity": {
+      "name": "Panor Genesis",
+      "domain": "genesis.panor",
+      "txHash": "0xdefeef0809d370925d75f3f13f32ed18ce4738c737709f9170e37a311e5fdd24"
+    },
+    "intellectualProperty": {
+      "title": "TOTUM Whitepaper",
+      "sharingPercent": 50,
+      "txHash": "0x0d49f2e4eb1a587f160f613cd6f7dfbeb4c7f2c8157f840a602f9fd45dc365490"
+    }
+  },
+  "integrations": {
+    "theGraph": true,
+    "arc": true,
+    "chainlink": true
+  }
+}

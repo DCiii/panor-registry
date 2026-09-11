@@ -1,0 +1,20 @@
+# Environment variables (CRÍTICO)
+.env
+.env.local
+.env.*.local
+
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
